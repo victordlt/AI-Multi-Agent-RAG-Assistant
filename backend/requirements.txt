@@ -1,0 +1,31 @@
+# Dependencias para el entorno de produccion
+
+# Dependencias Web
+fastapi==0.109.2
+uvicorn==0.27.1
+
+# Validacion y configuracion
+pydantic==2.13.5
+pydantic-settings==2.1.0
+
+# Document parsing
+pypdf==4.0.1
+pdfplumber==0.10.4
+pandas==2.2.0
+openpyxl==3.1.2
+
+# LLM & embeddings
+langchain-core==0.2.43
+langchain==0.2.12
+langchain-community==0.2.3
+
+# Vector store
+chromadb==0.5.3
+sentence-transformers==2.7.0
+
+# Utilities
+python-multipart==0.0.9
+python-dotenv==1.0.1
+httpx==0.28.1
+tenacity==8.2.3
+structlog==24.1.0
