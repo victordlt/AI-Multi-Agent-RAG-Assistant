@@ -1,7 +1,7 @@
 
 # Agente IA Profesional
 
-Una solución preparada para producción que permite cargar documentos y realizar consultas en lenguaje natural, basada en RAG, ChromaDB y un flujo de agentes compuesto por Planificador → Recuperador → Razonador → Validador.
+Un agente que permite cargar documentos y realizar consultas en lenguaje natural, basada en RAG, ChromaDB y un flujo de agentes compuesto por Planificador → Recuperador → Razonador → Validador.
 
 
 ## Caracteristicas:
