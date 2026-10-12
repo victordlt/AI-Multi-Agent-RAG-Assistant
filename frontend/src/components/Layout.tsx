@@ -16,7 +16,7 @@ export default function Layout() {
             to="/"
             className="navbar-brand fw-bold bg-transparent border-0 d-flex align-items-center"
           >
-            <span className="me-2">🤖</span> Agente IA Profesional
+            <span className="me-2">🤖</span> AI-Multi-Agent-RAG-Assistant
           </NavLink>
 
           {/* Menú de Opciones */}

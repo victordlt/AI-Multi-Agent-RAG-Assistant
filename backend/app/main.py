@@ -29,7 +29,7 @@ def create_app() -> FastAPI:
     configure_logging(settings.log_level)
     app = FastAPI(
         title=settings.app_name,
-        description="Agente IA Profesional Multiagente RAG local con Ollama",
+        description="AI-Multi-Agent-RAG-Assistant local con Ollama",
         version="1.0.0",
         lifespan=lifespan,
     )

@@ -8,4 +8,4 @@ router = APIRouter(tags=["health"])
 @router.get("/health")
 def health():
     """Verificación de actividad/disponibilidad."""
-    return {"status": "ok", "service": "Agente IA Profesional"}
+    return {"status": "ok", "service": "AI-Multi-Agent-RAG-Assistant"}

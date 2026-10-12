@@ -26,7 +26,7 @@ class Settings(BaseSettings):
     )
 
     # App
-    app_name: str = Field(default="Agente IA Profesional", alias="APP_NAME")
+    app_name: str = Field(default="AI-Multi-Agent-RAG-Assistant", alias="APP_NAME")
     debug: bool = Field(default=False, alias="DEBUG")
     log_level: str = Field(default="INFO", alias="LOG_LEVEL")
 
