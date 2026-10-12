@@ -45,7 +45,7 @@ export async function agentsQuery(payload: { query: string }): Promise<any> {
  * Cargar archivos PDF/Texto al servidor local
  */
 export async function uploadDocument(formData: FormData): Promise<any> {
-  const response = await fetch(`${API_BASE_URL}/upload`, {
+  const response = await fetch(`${API_BASE_URL}/documents/upload`, {
     method: 'POST',
     body: formData,
   });
