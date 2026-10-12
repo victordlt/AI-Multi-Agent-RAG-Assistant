@@ -64,7 +64,7 @@ export default function Layout() {
       <footer className="bg-white border-top py-3 mt-auto text-center">
         <div className="container">
           <p className="text-muted mb-0 small">
-            © {new Date().getFullYear()} <strong>Capstone Project</strong> — Ejecutándose localmente con <strong>Llama 3 & Ollama</strong>
+            © {new Date().getFullYear()} <strong>Agente</strong> — Ejecutándose localmente con <strong>Llama 3 & Ollama</strong>
           </p>
         </div>
       </footer>
