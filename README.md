@@ -1,5 +1,5 @@
 
-# Agente IA Profesional
+# AI-Multi-Agent-RAG-Assistant
 
 Un agente que permite cargar documentos y realizar consultas en lenguaje natural, basada en RAG, ChromaDB y un flujo de agentes compuesto por Planificador → Recuperador → Razonador → Validador.
 
