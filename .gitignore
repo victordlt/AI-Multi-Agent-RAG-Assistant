@@ -38,7 +38,7 @@ wheels/
 *.pem
 
 # ----- Backend runtime data -----
-#backend/data/
+backend/data/
 backend/*.db
 backend/*.sqlite
 *.sqlite3
