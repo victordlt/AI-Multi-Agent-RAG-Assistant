@@ -1,3 +1,4 @@
+![foto de ejemplo](https://raw.githubusercontent.com/victordlt/AI-Multi-Agent-RAG-Assistant/main/AI-Multi-Agent-RAG-Assistant.png)
 
 # AI-Multi-Agent-RAG-Assistant
 
